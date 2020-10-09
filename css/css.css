@@ -213,16 +213,16 @@ body{
   }
   #in h3{
     display:inline;
-    padding: 30px;
-    font-size: 4vw;
+    padding: 40px;
+    font-size: 5vw;
   }
   #dm{
-    font-size: 6vw;
+    font-size: 7vw;
     color: black;
     text-align: center;
   }
   h4{
-    font-size: 4.5vw;
+    font-size: 6.5vw;
     color: black;
     text-align: center;
   }
