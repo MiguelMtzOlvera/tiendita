@@ -164,7 +164,7 @@ body{
   }
   #car{
     display: block;
-      padding-left: 30%;
+      padding-left: 27%;
       text-indent: -1%;
   }
   #unme{
@@ -176,7 +176,7 @@ body{
       position: relative;
       top: 0px;
       *overflow: hidden;
-      left: 25%;
+      left: 23%;
   }
   #l{
     position: relative;
@@ -214,5 +214,11 @@ body{
   #in h3{
     display:inline;
     padding: 1%;
+    font-size: 2vw;
+  }
+  #dm{
+    font-size: 6vw;
+    color: black;
+    text-align: center;
   }
 }
