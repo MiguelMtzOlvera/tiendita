@@ -25,6 +25,7 @@ border: 3px;
 border-style:solid;
 line-height:1;
 align-items: center;
+display: block;
 }
 .cuadrito{
   vertical-align: top;
@@ -156,5 +157,58 @@ body{
   top: -30px;
 }
 @media (max-width:768px){
-
+  #user{
+    display: block;
+      padding-left: 5px;
+      text-indent: -1%;
+  }
+  #car{
+    display: block;
+      padding-left: 170px;
+      text-indent: -1%;
+  }
+  #unme{
+    display: block;
+    padding-left: 1%;
+    text-indent: -1%;
+  }
+  #input-search{
+      position: relative;
+      top: 0px;
+      *overflow: hidden;
+      left: 25%;
+  }
+  #l{
+    position: relative;
+    left: 22%;
+    height: auto;
+    top: -20px;
+  }
+  #s{
+    position: relative;
+    left: 12%;
+    height: auto;
+  }
+  #c{
+    position: relative;
+    height: auto;
+    top: -25px;
+  }
+  #b{
+    position: relative;
+    height: auto;
+    top: -10px;
+  }
+  #ca{
+    position: relative;
+    height: auto;
+    left: 10%;
+    top: 5px;
+  }
+  #co{
+    position: relative;
+    height: auto;
+    left: 20%;
+    top: -15px;
+  }
 }
